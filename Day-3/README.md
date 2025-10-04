@@ -1,6 +1,4 @@
-This is a professional-grade README file for the **VSDBabySoC** project, structured to provide a clear, comprehensive overview, setup instructions, and usage guide for potential users and contributors.
 
-```markdown
 # VSDBabySoC: A Simple RISC-V System-on-Chip (SoC)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -138,7 +136,7 @@ Open the generated VCD file using GTKWave:
 ```bash
 gtkwave output/post_synth_sim/post_synth_sim.vcd
 ```
-
+<img width="954" height="821" alt="Image" src="https://github.com/user-attachments/assets/cdcd6859-b99d-4666-b18e-919bb7cf96ee" />
 -----
 
 ## ⚠️ Troubleshooting Tips
